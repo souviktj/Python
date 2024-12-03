@@ -1,0 +1,37 @@
+# multi line print process
+print('''The Wonders of Nature 
+
+Beneath the sky so vast and blue,  
+A world unfolds, both old and new.  
+Mountains rise with timeless grace,  
+Guardians of Earth's sacred space.  
+
+Whispering winds in ancient trees,  
+Tell secrets carried by the breeze.  
+Leaves that dance in sunlight's glow,  
+A rhythmic pulse, a steady flow.  
+
+Oceans shimmer, deep and wide,  
+A liquid mirror, Earth's great pride.  
+Waves that crash and softly sing,  
+Harbingers of life's beginning.  
+
+Fields of flowers, colors bright,  
+A painter's dream, a sheer delight.  
+Petals soft, with scents divine,  
+Each a spark of life's design.  
+
+In twilight's hush, as stars appear,  
+The cosmos whispers, drawing near.  
+Nature's canvas, vast and bold,  
+A story infinite, untold.  
+
+The chorus of a distant stream,  
+A lullaby, a fleeting dream.  
+Nature's symphony, raw and pure,  
+A timeless gift that will endure.  
+
+Let us marvel, let us care,  
+For Earth's great wonders, rich and rare.  
+To tread with love, to stand in awe,  
+Nature's beauty, nature's law.  ''')
