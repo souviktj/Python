@@ -1,0 +1,9 @@
+import pyjokes
+
+print("printing jokes...")    #also print this 
+joke = pyjokes.get_joke()
+print(joke) 
+
+"""
+This is double line comment technique 
+"""
